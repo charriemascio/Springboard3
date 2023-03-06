@@ -1,0 +1,254 @@
+Go to lesson page | Two-way tables, Venn diagrams, and probabilityTwo-way tables, Venn diagrams, and probability
+Problem
+A restaurant noted what type of food its customers purchased last week. Here are the results:
+A Venn Diagram has 2 overlapping groups: Burger, 15% and Fries, 10%. The overlapping area shared by both Burger and Fries is 55%. The area not included in any group is 20%.
+In this sample, are the events "burger" and "fries" mutually exclusive?
+Choose 1 answer:
+Choose 1 answer:
+
+    (Choice A)
+    A
+    Yes
+    (Choice B)
+    B
+    No
+
+Find the probability that a randomly selected person from this sample bought a burger OR bought fries.
+P(burger OR fries)=P(burger OR fries)=P, left parenthesis, start text, b, u, r, g, e, r, space, O, R, space, f, r, i, e, s, end text, right parenthesis, equals
+
+
+
+
+
+
+
+Go to lesson page | Two-way tables, Venn diagrams, and probabilityTwo-way tables, Venn diagrams, and probability
+Problem
+A restaurant noted what type of food its customers purchased last week. Here are the results:
+A Venn Diagram has 2 overlapping groups: Burger, 15% and Fries, 10%. The overlapping area shared by both Burger and Fries is 55%. The area not included in any group is 20%.
+In this sample, are the events "burger" and "fries" mutually exclusive?
+Choose 1 answer:
+Choose 1 answer:
+
+    (Choice A)
+    A
+    Yes
+    (Choice B)
+    B
+    No
+
+Find the probability that a randomly selected person from this sample bought a burger OR bought fries.
+P(burger OR fries)=P(burger OR fries)=P, left parenthesis, start text, b, u, r, g, e, r, space, O, R, space, f, r, i, e, s, end text, right parenthesis, equals
+
+
+
+
+
+
+
+Two-way tables, Venn diagrams, and probability
+Problem
+The principal of a high school needs to plan seating for commencement. The following two-way table displays data for the students who are involved in this year's commencement ceremony.
+Grade level	In choir	Not in choir	TOTAL
+Junior	151515	333	181818
+Senior	232323	436436436	459459459
+Other	333	000	333
+TOTAL	414141	439439439	480480480
+For these students, are the events "senior" and "not in choir" mutually exclusive?
+Choose 1 answer:
+Choose 1 answer:
+
+    (Choice A)
+    A
+    Yes
+    (Choice B)
+    B
+    No
+
+Find the probability that a randomly selected student from this group is a senior OR is not in choir.
+P(senior OR not in choir)=P(senior OR not in choir)=P, left parenthesis, start text, s, e, n, i, o, r, space, O, R, space, n, o, t, space, i, n, space, c, h, o, i, r, end text, right parenthesis, equals
+
+
+
+
+
+
+
+Two-way tables, Venn diagrams, and probability
+Problem
+The usher at a wedding asked each of the 808080 guests whether they were a friend of the bride or of the groom. Here are the results:
+A Venn Diagram has 2 overlapping groups: Bride, 17 and Groom, 20. The overlapping area shared by both Bride and Groom is 42. The area not included by any group is identified as 1.
+In this sample, are the events "bride" and "groom" mutually exclusive?
+Choose 1 answer:
+Choose 1 answer:
+
+    (Choice A)
+    A
+    Yes
+    (Choice B)
+    B
+    No
+
+Find the probability that a randomly selected person from this sample was a friend of the bride OR of the groom.
+P(bride OR groom)=P(bride OR groom)=P, left parenthesis, start text, b, r, i, d, e, space, O, R, space, g, r, o, o, m, end text, right parenthesis, equals
+St
+
+
+
+
+
+
+Probability with general multiplication rule
+You might need: Calculator
+Problem
+Rosalyn is a teacher who plays a review game with her class. The game involves writing each student's name on an identical slip of paper and selecting students at random. Here's the makeup of her class:
+Grade	10th10th10, start superscript, start text, t, h, end text, end superscript	11th11th11, start superscript, start text, t, h, end text, end superscript	12th12th12, start superscript, start text, t, h, end text, end superscript
+Number of students	777	181818	555
+Suppose that Rosalyn wants 222 different students, so she picks 222 names without replacing names between picks.
+What is the probability that both students selected are 11th11th11, start superscript, start text, t, h, end text, end superscript graders?
+Round your answer to two decimal places.
+
+
+
+
+
+
+
+Go to lesson page | Probability with general multiplication ruleProbability with general multiplication rule
+You might need: Calculator
+Problem
+Ana is a teacher who plays a review game with her class. The game involves writing each student's name on an identical slip of paper and selecting students at random. Here's the makeup of her class:
+Grade	9th9th9, start superscript, start text, t, h, end text, end superscript	10th10th10, start superscript, start text, t, h, end text, end superscript	11th11th11, start superscript, start text, t, h, end text, end superscript
+Number of students	121212	999	777
+Suppose that Ana picks a name, replaces it, and picks a name again.
+What is the probability that NEITHER of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders?
+Round your answer to two decimal places.
+
+You might need: Calculator
+Problem
+Ana is a teacher who plays a review game with her class. The game involves writing each student's name on an identical slip of paper and selecting students at random. Here's the makeup of her class:
+Grade	9th9th9, start superscript, start text, t, h, end text, end superscript	10th10th10, start superscript, start text, t, h, end text, end superscript	11th11th11, start superscript, start text, t, h, end text, end superscript
+Number of students	121212	999	777
+Suppose that Ana picks a name, replaces it, and picks a name again.
+What is the probability that NEITHER of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders?
+Round your answer to two decimal places.
+Hint #11 / 4
+Strategy
+For some random process, we can find the probability that events AAstart text, A, end text and BBstart text, B, end text both occur using the general multiplication rule:
+P(A and B)=P(A)⋅P(B∣A)P(A and B)=P(A)⋅P(B∣A)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis
+Note that P(B∣A)P(B∣A)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis is the probability that BBstart text, B, end text occurs given that AAstart text, A, end text has already occurred.
+Are the events independent?
+If events AAstart text, A, end text and BBstart text, B, end text are independent, then one event occurring doesn't change the probability of the other event occurring. So if we know the events are independent, we know that P(B∣A)=P(B)P(B∣A)=P(B)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis, equals, P, left parenthesis, start text, B, end text, right parenthesis, and we can rewrite the multiplication rule as:
+P(A and B)=P(A)⋅P(B)P(A and B)=P(A)⋅P(B)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, right parenthesis
+Hint #22 / 4
+Independent events?
+We want the probability that neither of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders. Let's think of this one student at a time.
+The class has 282828 total students, and 121212 of them are 9th9th9, start superscript, start text, t, h, end text, end superscript graders, so 161616 of them are not 9th9th9, start superscript, start text, t, h, end text, end superscript graders.
+So the probability the first student picked is not a 9th9th9, start superscript, start text, t, h, end text, end superscript grader is 16282816​start color #0c7f99, start fraction, 16, divided by, 28, end fraction, end color #0c7f99.
+After picking the first name, Ana replaces it before picking another name. That means the names picked are independent.
+So the probability the second student picked is not a 9th9th9, start superscript, start text, t, h, end text, end superscript grader is 16282816​start color #ca337c, start fraction, 16, divided by, 28, end fraction, end color #ca337c.
+Hint #33 / 4
+Multiplication rule
+P(Neither 9th grade)=1628⋅1628=(1628)2=256784≈0.3265P(Neither 9th grade)​=2816​⋅2816​=(2816​)2=784256​≈0.3265​
+Hint #44 / 4
+Answer
+The probability that neither of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders is about 0.330.330, point, 33.
+
+
+
+
+
+
+
+
+
+
+You might need: Calculator
+Problem
+Ana is a teacher who plays a review game with her class. The game involves writing each student's name on an identical slip of paper and selecting students at random. Here's the makeup of her class:
+Grade	9th9th9, start superscript, start text, t, h, end text, end superscript	10th10th10, start superscript, start text, t, h, end text, end superscript	11th11th11, start superscript, start text, t, h, end text, end superscript
+Number of students	121212	999	777
+Suppose that Ana picks a name, replaces it, and picks a name again.
+What is the probability that NEITHER of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders?
+Round your answer to two decimal places.
+Hint #11 / 4
+Strategy
+For some random process, we can find the probability that events AAstart text, A, end text and BBstart text, B, end text both occur using the general multiplication rule:
+P(A and B)=P(A)⋅P(B∣A)P(A and B)=P(A)⋅P(B∣A)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis
+Note that P(B∣A)P(B∣A)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis is the probability that BBstart text, B, end text occurs given that AAstart text, A, end text has already occurred.
+Are the events independent?
+If events AAstart text, A, end text and BBstart text, B, end text are independent, then one event occurring doesn't change the probability of the other event occurring. So if we know the events are independent, we know that P(B∣A)=P(B)P(B∣A)=P(B)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis, equals, P, left parenthesis, start text, B, end text, right parenthesis, and we can rewrite the multiplication rule as:
+P(A and B)=P(A)⋅P(B)P(A and B)=P(A)⋅P(B)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, right parenthesis
+Hint #22 / 4
+Independent events?
+We want the probability that neither of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders. Let's think of this one student at a time.
+The class has 282828 total students, and 121212 of them are 9th9th9, start superscript, start text, t, h, end text, end superscript graders, so 161616 of them are not 9th9th9, start superscript, start text, t, h, end text, end superscript graders.
+So the probability the first student picked is not a 9th9th9, start superscript, start text, t, h, end text, end superscript grader is 16282816​start color #0c7f99, start fraction, 16, divided by, 28, end fraction, end color #0c7f99.
+After picking the first name, Ana replaces it before picking another name. That means the names picked are independent.
+So the probability the second student picked is not a 9th9th9, start superscript, start text, t, h, end text, end superscript grader is 16282816​start color #ca337c, start fraction, 16, divided by, 28, end fraction, end color #ca337c.
+Hint #33 / 4
+Multiplication rule
+P(Neither 9th grade)=1628⋅1628=(1628)2=256784≈0.3265P(Neither 9th grade)​=2816​⋅2816​=(2816​)2=784256​≈0.3265​
+Hint #44 / 4
+Answer
+The probability that neither of the students selected are 9th9th9, start superscript, start text, t, h, end text, end superscript graders is about 0.330.330, point, 33.
+
+
+
+
+
+Probability with general multiplication rule
+You might need: Calculator
+Problem
+Maya is playing a trivia game with multiple choice questions. Each question has 222 correct answers among 555 answer choices.
+Maya has no idea what the answers to a certain question are, so she needs to choose two different answers at random.
+What is the probability that Maya's first guess is CORRECT and her second guess is INCORRECT?
+Round your answer to two decimal places.
+
+
+
+
+
+
+
+Probability with general multiplication rule
+
+Problem
+Maya is playing a trivia game with multiple choice questions. Each question has 222 correct answers among 555 answer choices.
+Maya has no idea what the answers to a certain question are, so she needs to choose two different answers at random.
+What is the probability that Maya's first guess is CORRECT and her second guess is INCORRECT?
+Round your answer to two decimal places.
+Hint #11 / 4
+Strategy
+For some random process, we can find the probability that events AAstart text, A, end text and BBstart text, B, end text both occur using the general multiplication rule:
+P(A and B)=P(A)⋅P(B∣A)P(A and B)=P(A)⋅P(B∣A)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis
+Note that P(B∣A)P(B∣A)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis is the probability that BBstart text, B, end text occurs given that AAstart text, A, end text has already occurred.
+Are the events independent?
+If events AAstart text, A, end text and BBstart text, B, end text are independent, then one event occurring doesn't change the probability of the other event occurring. So if we know the events are independent, we know that P(B∣A)=P(B)P(B∣A)=P(B)P, left parenthesis, start text, B, end text, vertical bar, start text, A, end text, right parenthesis, equals, P, left parenthesis, start text, B, end text, right parenthesis, and we can rewrite the multiplication rule as:
+P(A and B)=P(A)⋅P(B)P(A and B)=P(A)⋅P(B)P, left parenthesis, start text, A, space, a, n, d, space, B, end text, right parenthesis, equals, P, left parenthesis, start text, A, end text, right parenthesis, dot, P, left parenthesis, start text, B, end text, right parenthesis
+Hint #22 / 4
+Independent events?
+We want the probability that Maya's first guess is correct, and her second guess is incorrect. Let's think of this one guess at a time.
+The question has 555 answer choices, and 222 of them are correct.
+So the probability that Maya's first guess is correct is 2552​start color #0c7f99, start fraction, 2, divided by, 5, end fraction, end color #0c7f99.
+Maya needs to guess a different answer for her next guess. That means the guesses are not independent.
+For her second guess, 333 of the 444 remaining answer choices are incorrect. So the probability that Maya's second guess is incorrect is 3443​start color #ca337c, start fraction, 3, divided by, 4, end fraction, end color #ca337c.
+Hint #33 / 4
+Multiplication rule
+P(1st correct AND 2nd incorrect)=25⋅34=310 or 0.3P(1stcorrect AND 2ndincorrect)​=52​⋅43​=103​ or 0.3​
+Hint #44 / 4
+Answer
+The probability that Maya's first guess is correct and her second guess is incorrect is 0.30.30, point, 3.
+
+
+
+
+
+
+
+
+
+
+
+
+

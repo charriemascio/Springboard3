@@ -1,0 +1,142 @@
+#Starting code 
+#family = ['Mother', 34, 'Father', 45, 'Sister', 18, 'Older_brother', 29]
+# You can change code above this line
+"""shopping_cart = ['eggs', 'banana', 'bread', 'butter']
+print(shopping_cart)
+print(shopping_cart[0])
+print(shopping_cart[1])
+
+aList = ['hedgehog', 'newt', 'vole', 'stoat'] 
+number = 2
+print(aList[number])
+
+shopping_cart = ['eggs', 'banana', 'bread', 'butter']
+index = 5
+print(shopping_cart[5])
+
+shopping_cart = ['eggs', 'banana', 'bread', 'butter']
+try:
+    print(shopping_cart.index('salt'))
+except:
+    print('No salt. Need salt.')"""
+
+#aList = ['hedgehog', 'newt', 'vole', 'stoat', 'owl', 'toad', 'robin'] 
+
+#print(len(aList))
+#print(len(aList[6]))
+
+"""import random
+randomNumber = random.randint(0, 6)
+
+randomElement = aList[randomNumber]
+print(randomElement) 
+
+aList = ['hedgehog', 'newt', 'vole', 'stoat', 'owl', 'toad', 'robin'] 
+import random
+randomNumber = random.randint(0, 6)
+randomElement = aList[randomNumber]
+print(randomElement)  
+
+
+shopping_cart = ['eggs', 'banana', 'bread', 'butter']
+index = shopping_cart.index('bread')
+print(index)  """
+
+#print(shopping_cart.index('bread'))
+
+#2.2.8.4. List methods
+"""
+guests = [] 
+guests.append('Cuthbert')
+print(guests)
+
+immediateFamily = ['Mum', 'Dad', 'Grandma', 'Abbie']
+guests.extend(immediateFamily)
+print(guests)
+
+
+guests.append('Lucy')
+print(guests)
+
+guests.insert(1, 'Julia')
+print(guests)
+
+guests[0] = 'Lily'
+print(guests)
+
+del guests[5]
+print(guests)
+
+popped_guest = guests.pop(1)   #or pop() removes last element of list
+print('Sorry ' + popped_guest + ' come to my next one!')
+print(guests)
+
+tequillaBottles = [16, 13, 21, 30, 5, 2, 11]
+
+print('On the worst day, I had only ', min(tequillaBottles), ' bottles.')
+print('On the best, day, I had ', max(tequillaBottles), ' bottles.')
+print("I've had a total of ", sum(tequillaBottles), " bottles in the house this week.")
+
+print(sorted(tequillaBottles))
+tequillaBottles = tequillaBottles.sort()
+
+
+shopping_cart = ['eggs', 'banana', 'bread', 'butter']
+shopping_cart[1]= 'mango'
+print(shopping_cart)
+
+shopping_cart.append('rice')
+shopping_cart.append('soup')
+print(shopping_cart)
+
+shopping_cart.extend(['meat', 'beans'])
+print(shopping_cart)
+
+shopping_cart.insert(1, 'grapes')
+print(shopping_cart)
+
+shopping_cart.pop(4)
+print(shopping_cart)
+
+shopping_cart.remove('grapes')
+print(shopping_cart) """
+
+#companies =['LinkedIn', 'Google', 'Amazon', 'Apple', 'Microsoft', 'YouTube']
+ 
+#for i in range(len(companies)):
+    #print(companies[i])
+
+#for i in range(0, len(companies), 1):
+    #print(companies[i])
+
+#for i in range(0, len(companies), 1):
+   #print(companies[i])
+"""
+firstFive = list(range(1, 6))
+oddNumbers = list(range(1, 11, 2))  
+
+print(firstFive)
+print(oddNumbers)
+
+# list comprehensions, making a list in one line 
+squares = [num ** 2 for num in range(1, 11)]
+print(squares)"""
+#shopping_cart = ['eggs', 'grapes', 'mango', 'bread', 'butter', 'rice', 'soup', 'meat', 'beans']
+
+#n = len(shopping_cart)
+#for i in range(len(shopping_cart)):
+#    print(shopping_cart[i])
+
+#for i in range(0, n):
+#    print(shopping_cart[i])
+
+#for list_item in shopping_cart:
+#   print(list_item)
+
+#faveFoods = ['pansit', 'adobo', 'flan']
+#for food in faveFoods:
+#    print('I love eating' ,food)
+
+#shopping_cart = ['eggs', 'grapes', 'mango', 'bread', 'butter', 'rice', 'soup', 'meat', 'beans']
+
+#print(shopping_cart[3:])

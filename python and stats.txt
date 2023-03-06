@@ -1,0 +1,83 @@
+"""money = 2500
+swimming = False
+job = False
+if (swimming == True):
+    money = money + 100
+else:
+    money = money - 35
+ 
+print(money)
+ 
+if job:
+    if (money >= 2500):
+        print('Walrus purchased. Life goal achieved.')
+
+    else:
+        print('Not enough money.')"""
+
+
+"""my_boolean = "I can't code" != "It is too difficult"
+my_boolean_2 = "I can't code" == "It is too difficult"
+print(my_boolean)
+print(my_boolean_2)
+
+print(4 > 44)
+
+num1 = 2**8
+if(num1 >128):
+    print('Correct')
+
+if (3 > 2):
+    print('Math')
+
+animal = 'Monkey'
+if animal == 'Lion':
+    print('Meat')
+elif animal == 'Zebra':
+    print('Grass')
+elif animal == 'Monkey':
+    print('Fruit')
+else:
+    print('Water')
+
+choice = input('Where do you want to turn? left, right or straight? ')
+if choice == 'left':
+    print('Wrong way! You end up in the dungeon with snakes.')
+elif choice == 'right':
+    print('Sorry! You chose to enter the dungeon with hungry wolves.')
+else:
+    print('Hooray! You were able to return back to the forest safely.')
+
+animal = input('State an animal: ')
+if animal == 'Lion' or animal == 'Tiger' or animal == 'Crocodile':
+    print('Meat')
+elif animal == 'Zebra' or animal == 'Bison':
+    print('Grass')
+else:
+    print('Water')
+
+animal = input('What pet do you have? ')
+if animal == 'cat':
+    print('meow')
+elif animal == 'dog':
+    print('woof')
+else:
+    print('squark')
+
+for i in range(10):
+    print(i)
+
+for i in range(10, 16):
+    print(i)
+
+for i in range(10, 25, 4):
+    print(i)"""
+
+num = int(input('Enter a number: '))
+
+for i in range(num, 201):
+    
+    if i % 2 == 0:
+        print('Fizz')
+    else:
+        print('Buzz')

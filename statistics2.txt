@@ -1,0 +1,81 @@
+INSERTION SORT
+
+
+#Write out your favorite implementation of Bubble or Insertion sort, and print out the result of calling it on the following unsorted lists:
+#test = [test0, test1, test2, test3],
+test0  = [3, 22, 14, 434, 501, 11, 9, 1230, 304, 123, 5412, 381923, 302, -3, 1]
+ 
+test1 = [43, 12, 7, 9, 22, 1, 104]
+ 
+test2 = [100, 0, 0, -20, 30, -5]
+ 
+test3 =  [28, 4, 17, 666, 1001, 52, 61, 30]
+
+
+def insertion_sort(test0):
+    for index in range(1,len(test0)):
+        value = (test0)[index]
+        i = index -1
+        while i >= 0:
+            if value < (test0)[i]:
+                (test0)[i +1] = (test0)[i]
+                (test0)[i] = value
+                i = i-1
+            else:
+                break
+insertion_sort(test0)
+print(test0)
+insertion_sort(test1)
+print(test1)
+insertion_sort(test2)
+print(test2)
+insertion_sort(test3)
+print(test3)              
+
+workspace $ python3 main.py
+[-3, 1, 3, 9, 11, 14, 22, 123, 302, 304, 434, 501, 1230, 5412, 381923]
+[1, 7, 9, 12, 22, 43, 104]
+[-20, -5, 0, 0, 30, 100]
+[4, 17, 28, 30, 52, 61, 666, 1001]
+workspace $ 
+
+BINARY SEARCH
+
+#Implement your favorite Searching algorithm between Brute-Force search, Iterative Binary Search and Recursive Binary search on the following sorted lists and accompanying search items, in this order:
+
+test0 = [-3, 1, 3, 9, 11, 14, 22, 123, 302, 304, 434, 501, 1230, 5412, 381923]
+searchItem0 = 13
+ 
+ 
+test1 = [1, 7, 9, 12, 22, 43, 104]
+searchItem1 = 9
+ 
+ 
+test2 = [-20, -5, 0, 0, 30, 100]
+searchItem2 = 31
+ 
+ 
+test3 = [4, 17, 28, 30, 52, 61, 666, 1001]
+searchItem3 = 666
+
+
+def binary_search(testList, searchItem):
+    lowerIndex = 0
+    upperIndex = len(testList)-1
+    found = False
+    while lowerIndex <= upperIndex and not found:
+        middleIndex = (lowerIndex + upperIndex) //2
+        if searchItem == testList[middleIndex]:
+            found = True
+            break
+        else:
+            if searchItem < testList[middleIndex]:
+                upperIndex = middleIndex -1
+            else:
+                lowerIndex = middleIndex +1
+    return found
+
+print(binary_search(test0, 13))
+print(binary_search(test1, 9))
+print(binary_search(test2, 31))
+print(binary_search(test3, 666))
